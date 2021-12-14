@@ -1,5 +1,5 @@
 # Final-Lab-Code
-This is the code portion for my final project in NMD 211. The code was written in and for Arduino. Please copy and paste from line 4 of this README file to the end of the file if you want to replicate this yourself!
+This is the code portion for my final project in NMD 211. The code was written in and for Arduino. Please copy and paste from line 47 of this README file (or from line 10 if you want the task description and steps) to the end of the file if you want to replicate this yourself!
 
 /*
   Evangeline Soucy
